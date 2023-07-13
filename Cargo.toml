@@ -9,6 +9,7 @@ homepage = "https://github.com/maoe/mvar-rs"
 readme = "README.md"
 include = [
     "/Cargo.toml",
+    "/CHANGELOG.md",
     "/LICENSE-APACHE",
     "/LICENSE-MIT",
     "/README.md",
