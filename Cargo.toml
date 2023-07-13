@@ -14,6 +14,7 @@ include = [
     "/LICENSE-MIT",
     "/README.md",
     "/src/**",
+    "/benches/**",
 ]
 edition = "2018"
 
